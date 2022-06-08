@@ -1,0 +1,3 @@
+[submodule "ohmygraphs"]
+	path = ohmygraphs
+	url = https://github.com/nabsabraham/ohmygraphs
